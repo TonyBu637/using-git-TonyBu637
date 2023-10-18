@@ -11,7 +11,7 @@ def motionMouse(event):
 
 root = Tk()
 root.geometry('600x600')
-root.title('survey')
+root.title('Python Survey')
 root.resizable(width=False, height=False)
 root['bg'] = 'white'
 
